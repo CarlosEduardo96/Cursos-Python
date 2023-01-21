@@ -1,0 +1,3 @@
+"break" rompe la intruccion de un bloque de codigo
+"continue" continua con el fljo del programa pero ignora las lineas futuras
+"while" ciclo con dicional se puede conbinar con un "else"
