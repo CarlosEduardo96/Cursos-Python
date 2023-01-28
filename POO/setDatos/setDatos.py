@@ -54,7 +54,7 @@ print(x)
 #clear -- limpiar datos de un set de datos, y arreglos
 thisset={"manzana","platano", "pera"}
 del thisset
-print(thisset) ## manda error por que el set de datpos ya no existe
+##print(thisset) ## manda error por que el set de datpos ya no existe
 
 ##Conjunto de datos
 
