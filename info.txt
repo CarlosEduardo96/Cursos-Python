@@ -1,0 +1,30 @@
+Crear Ambiente Virtual
+importar la biblioteca de ambiente virtual
+
+##Activar 
+Ejecutar el archivo activate.ps1 dentro de la carpeta scripts
+##Desactivar el embiente vistual
+deactivate
+
+Crear un ambiente virtutal
+1. python -m venv virtual1
+2.- crear una carpeta con nombre primer_proyecto_django
+3. activar el entorno virtual ejemplo: XXX/Activate.ps1
+4. dentro de la capeta creada ejecutar el siguiente comando 
+    python -m pip install django
+5. actualizar el pip
+    python -m pip install --upgrade pip
+
+6. Instalar django en el proyecto primer_proyecto_django
+    django-admin startproject primer_proyecto_django
+
+7. correr el servidor
+
+Al finalizar los pasos tendras dos carpetas una con el ambiente vistual y otra donde estaras
+trabajando en el proyecto
+
+##Para el ambiente virtual dos
+python -m pip install django~=4.0.0
+
+
+python manage.py runserver

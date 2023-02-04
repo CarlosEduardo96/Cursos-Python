@@ -1,1 +1,18 @@
 .vscode/
+*.typed
+manage.py
+*.exe
+*.bat
+*.ps1
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+.doit.db
+*.py[cod]
+cache/
+output/
+*/virtual1/*
