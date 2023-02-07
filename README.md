@@ -15,7 +15,7 @@ para crear un ambiente virtulizado hay que seguir los sigientes pasos
 ## Configurar el entorno virtual.
 
 ### Activar el entorno virtual ejemplo: 
-para ello hayq eu ejecutar el archivo `Activate.ps1`  dentro de la carpeta de nuestro ambiente virtual creado.
+para ello hay que ejecutar el archivo `Activate.ps1`  dentro de la carpeta de nuestro ambiente virtual creado.
 
 ### Dentro de la capeta del ambiente virtual ejecutar el siguiente comando: 
 ```python -m pip install django```
